@@ -1,0 +1,15 @@
+﻿body {
+}
+#form12 {
+    background: url('images.jpg') no-repeat;
+    background-size:100%;
+    margin-top: -10px;
+    padding-top: 20px;
+    text-align: center;
+    background-attachment: initial;
+    background-position: center center;
+    min-height: 500px;
+    width: 100%;
+    background-size: cover;
+
+}
